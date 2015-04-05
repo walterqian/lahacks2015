@@ -19,3 +19,13 @@ class Places(object):
         self.station = name
         self.times = times
 
+# Going to be hardcoded for now
+locations = ['SD', 'LA', 'SB', 'SF']
+
+Amy = User('SD', 'LA', '10:00 am', 'Pacific')
+Bob = User('LA', 'SF', '12:00 pm', 'Pacific')
+
+users = []
+
+def addUser(userList, user):
+
