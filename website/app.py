@@ -33,6 +33,14 @@ db.authenticate('user', 'password')
 # 		val=line.split(',')
 # 		schedules.insert({'src': val[0],'dest':val[1],'price':val[2],'depart':val[3],'arrival':val[4]})
 
-allUsers = db.users
+# users = db.users
+# users.remove()
+# with open('scrape/users') as f:
+#     content = f.readlines()
+#     for line in content:
+#         val=line.split(',')
+#         users.insert({'src': val[0],'dest':val[1],'depart':val[2], 'arrival':val[3]})
+ 
+print db.users.find_one()
 
-print allUsers.find_one()
+

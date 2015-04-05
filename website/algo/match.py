@@ -26,10 +26,8 @@ def addUser(schedule, userList, user):
     # schedule for times
     # userList is database of our users
 
-
-
     for potential in userList.find():
-        if (potential.source == user.destination and potential.prevUser is None): 
+        if (potential['src'] == user.destination and potential.prevUser is None): 
             potential.prevUser = user
             user.nextUser = potential
             print "Connecting %s and %s" % (potential.source, user.destination)
