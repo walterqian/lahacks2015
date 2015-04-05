@@ -28,7 +28,9 @@ Bob = User('LA', 'SF', '12:00 pm', 'Pacific')
 users = []
 
 def addUser(userList, user):
+    print "was here"
     for potential in userList:
+        #TODO: time & rails
         if (potential.source == user.destination and potential.prevUser is None): 
             potential.prevUser = user
             user.nextUser = potential
@@ -39,7 +41,7 @@ def addUser(userList, user):
             user.prevUser = potential
             print "Connecting %s and %s" % (potential.destination, user.source)
             break
-        userList.append(user)
+    userList.append(user)
 
 addUser(users, Amy)
 addUser(users, Bob)

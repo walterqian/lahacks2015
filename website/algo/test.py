@@ -5,11 +5,13 @@ def main():
     x = match.User(1,0,0,0)
     y = match.User(2,0,0,0)
     z = match.User(3,0,0,0)
+    b = match.User(4,0,0,0)
         
     x.regular = 25
     y.regular = 25
     z.regular = 25
-        
+    b.regular = 50
+
     x.nextUser = y
     y.nextUser = z
     z.prevUser = y
@@ -17,6 +19,7 @@ def main():
 
     currency.priceSaved(z)
 
+    print b.savings
     print x.savings
     print y.savings
     print z.savings
