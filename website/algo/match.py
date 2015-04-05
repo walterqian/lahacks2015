@@ -39,6 +39,11 @@ def addUser(userList, user):
         #TODO: time & rails
 
 def addUser(schedule, userList, user):
+    # schedule for times
+    # userList is database of our users
+
+
+
     for potential in userList.find():
         if (potential.source == user.destination and potential.prevUser is None): 
             potential.prevUser = user
