@@ -26,7 +26,6 @@ db.authenticate('user', 'password')
 # print test.find_one({'id':5})
 
 #load data
-schedules = db.schedules
 # schedules.remove()
 # with open('scrape/final') as f:
 # 	content = f.readlines()
@@ -34,6 +33,6 @@ schedules = db.schedules
 # 		val=line.split(',')
 # 		schedules.insert({'src': val[0],'dest':val[1],'price':val[2],'depart':val[3],'arrival':val[4]})
 
+allUsers = db.users
 
-print '\nNumber of schedules', schedules.find().count()
-print schedules.find_one({'src':'SAC'})
+print allUsers.find_one()

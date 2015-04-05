@@ -8,9 +8,6 @@ from flask import Flask
 from pymongo import Connection
 import pymongo
 
-if __name__ == '__main__':
-    main()
-
 def main():
 	app = Flask(__name__)
 
@@ -25,3 +22,11 @@ def main():
 	# Have to authenticate to get access
 	print '\nAuthenticating ...'
 	db.authenticate('user', 'password')
+
+        userList = db.users
+        schedule = db.schedules
+
+
+if __name__ == '__main__':
+    main()
+

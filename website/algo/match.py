@@ -23,6 +23,11 @@ class Places(object):
         self.times = times
 
 def addUser(schedule, userList, user):
+    # schedule for times
+    # userList is database of our users
+
+
+
     for potential in userList.find():
         if (potential.source == user.destination and potential.prevUser is None): 
             potential.prevUser = user
