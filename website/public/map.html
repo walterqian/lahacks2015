@@ -91,7 +91,9 @@ d3.json("maps/usa.json", function(error, us) {
       .attr("transform", "translate(" + projection([stations[i].latitude, stations[i].longitude]) + ")")
       .attr("id", stations[i].abbr)
       .append("text")
-        .attr("y","3")
+        .attr("x","0")
+        .attr("y","0")
+        .attr("dy",".35em")
         .attr("class", "stationlabel")
         .text(stations[i].name)
         .attr("visibility", "hidden");
@@ -144,6 +146,8 @@ function zoomed() {
   g.style("stroke-width", 1.5 / d3.event.scale + "px");
   g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 
+  g.selectAll("text")
+    .style("font-size",20/d3.event.scale);
 }
 
 // If the drag behavior prevents the default click,
