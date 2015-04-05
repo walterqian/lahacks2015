@@ -21,7 +21,7 @@ def priceSaved(user):
     while (tmp.next != None):
         totalPrice += tmp.regular 
 
-    price = getPriceFromServer(start,end)
+    price = getPriceFromServer(start.source,end.destination)
     #finish above after database is setup
 
     percentSaved = price/totalPrice
