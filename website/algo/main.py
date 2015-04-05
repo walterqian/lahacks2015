@@ -25,3 +25,5 @@ def main():
 	# Have to authenticate to get access
 	print '\nAuthenticating ...'
 	db.authenticate('user', 'password')
+
+

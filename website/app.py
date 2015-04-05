@@ -27,6 +27,7 @@ db.authenticate('user', 'password')
 
 #load data
 schedules = db.schedules
+users = db.users
 # schedules.remove()
 # with open('scrape/final') as f:
 # 	content = f.readlines()
@@ -36,4 +37,5 @@ schedules = db.schedules
 
 
 print '\nNumber of schedules', schedules.find().count()
-ojb= schedules.find_one({'src':'SAC'})
+print users.find().count()
+print users.find({'src':'SAC'})
