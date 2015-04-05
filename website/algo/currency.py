@@ -1,5 +1,5 @@
 #!/usr/local/bin/python
-
+import match
 
 def priceSaved(user):
     start = None 
@@ -19,7 +19,7 @@ def priceSaved(user):
     totalPrice = 0;
     
     while (tmp.next != None):
-        totalPrice += tmp.price; 
+        totalPrice += tmp.regular 
 
     price = getPriceFromServer(start,end)
     #finish above after database is setup
@@ -27,7 +27,7 @@ def priceSaved(user):
     percentSaved = price/totalPrice
     tmp = start
     while (tmp.next != None):
-        tmp.savings = (tmp.price * percentSaved)
+        tmp.savings = (tmp.regular * percentSaved)
 
 
 

@@ -11,8 +11,6 @@ class User(object):
         self.savings = 0
         self.regular = 0
 
-    def changeSavings(saved):
-        self.savings = saved
 
 class Places(object):
 
