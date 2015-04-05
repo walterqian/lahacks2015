@@ -2,17 +2,20 @@
 
 class User(object):
 
-    def __init__(self, src, dest, time, lines):
+    def __init__(self, src, dest, depart, lines):
         self.source = src
         self.destination = dest
-        self.time = time
+        self.departTime = depart
         self.railLines = lines
         self.matched = False
         self.savings = 0
         self.regular = 0
+        self.nextUser = None
+        self.prevUser = None
 
 class Places(object):
 
-    def __init__(self, name, time):
+    def __init__(self, name, times):
         self.station = name
-        self.time = time
+        self.times = times
+
