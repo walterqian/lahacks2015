@@ -5,30 +5,35 @@ def priceSaved(user):
     start = None 
     end = None 
     tmp = user
-    while (tmp.prevUser != None):
+    while tmp.prevUser is not None:
         tmp = tmp.prevUser
     
     start = tmp 
-    tmp = end 
+    tmp = user
 
-    while (tmp.nextUser != None):
+    while tmp.nextUser is not None:
         tmp = tmp.nextUser
 
     end = tmp 
     tmp = start
     totalPrice = 0;
-    
-    while (tmp.nextUser != None):
-        totalPrice += tmp.regular 
 
-    price = getPriceFromServer(start.source,end.destination)
+    while tmp is not None:
+        totalPrice += tmp.regular 
+        tmp = tmp.nextUser
+
+    price = 50
     #finish above after database is setup
 
-    percentSaved = price/totalPrice
+    
+    percentSaved = price/float(totalPrice)
     tmp = start
-    while (tmp.next != None):
-        tmp.savings = (tmp.regular * percentSaved)
+
+    while tmp is not None:
+        tmp.savings = tmp.regular - (tmp.regular * percentSaved)
         tmp = tmp.nextUser
+
+    
 
 
 
