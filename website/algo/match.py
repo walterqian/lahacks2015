@@ -1,4 +1,7 @@
 #!/usr/local/bin/python
+from flask import Flask
+from pymongo import Connection
+import pymongo
 
 class User(object):
 
@@ -19,18 +22,8 @@ class Places(object):
         self.station = name
         self.times = times
 
-# Going to be hardcoded for now
-locations = ['SD', 'LA', 'SB', 'SF']
-
-Amy = User('SD', 'LA', '10:00 am', 'Pacific')
-Bob = User('LA', 'SF', '12:00 pm', 'Pacific')
-
-users = []
-
-def addUser(userList, user):
-    print "was here"
-    for potential in userList:
-        #TODO: time & rails
+def addUser(schedule, userList, user):
+    for potential in userList.find():
         if (potential.source == user.destination and potential.prevUser is None): 
             potential.prevUser = user
             user.nextUser = potential
@@ -42,6 +35,3 @@ def addUser(userList, user):
             print "Connecting %s and %s" % (potential.destination, user.source)
             break
     userList.append(user)
-
-addUser(users, Amy)
-addUser(users, Bob)
