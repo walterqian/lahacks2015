@@ -1,0 +1,11 @@
+#!/usr/local/bin/python
+
+import currency
+import match
+
+def main():
+    
+
+if __name__ == '__main__':
+    print "Initializing algorithm"   
+    main()
