@@ -24,6 +24,8 @@ locations = ['SD', 'LA', 'SB', 'SF']
 
 Amy = User('SD', 'LA', '10:00 am', 'Pacific')
 Bob = User('LA', 'SF', '12:00 pm', 'Pacific')
+C = User ('LA', 1,1 ,1 )
+D = User(1,'SD',1,1)
 
 users = []
 
@@ -45,3 +47,5 @@ def addUser(userList, user):
 
 addUser(users, Amy)
 addUser(users, Bob)
+addUser(users, C)
+addUser(users,D)

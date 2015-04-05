@@ -36,4 +36,4 @@ schedules = db.schedules
 
 
 print '\nNumber of schedules', schedules.find().count()
-print schedules.find_one({'src':'SAC'})
+ojb= schedules.find_one({'src':'SAC'})

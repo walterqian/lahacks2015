@@ -1,7 +1,7 @@
 #!/usr/local/bin/python
 import match
 
-def priceSaved(user):
+def priceSaved(user, schedule):
     start = None 
     end = None 
     tmp = user
@@ -22,7 +22,8 @@ def priceSaved(user):
         totalPrice += tmp.regular 
         tmp = tmp.nextUser
 
-    price = 50
+    obj = schedule.find_one({'src':start.source,'dest':end.destination})
+    price = obj.price
     #finish above after database is setup
 
     
