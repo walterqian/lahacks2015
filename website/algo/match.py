@@ -13,6 +13,7 @@ class User(object):
         self.nextUser = None
         self.prevUser = None
 
+
 class Places(object):
 
     def __init__(self, name, times):

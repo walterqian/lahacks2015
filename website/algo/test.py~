@@ -1,0 +1,24 @@
+import currency
+import match
+
+def main(){
+    x = match.User(0,0,0,0)
+    y = match.User(0,0,0,0)
+    z = match.User(0,0,0,0)
+        
+    x.regular = 25
+    y.regular = 25
+    z.regular = 25
+        
+    x.nextUser = y
+    y.nextUser = z
+    z.prevUser = y
+    y.prevUser = x
+
+    currency.priceSaved(x)
+
+    print x.savings
+    print y.savings
+    print z.savings
+
+}
