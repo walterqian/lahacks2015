@@ -5,20 +5,20 @@ def priceSaved(user):
     start = None 
     end = None 
     tmp = user
-    while (tmp.prev != None):
-        tmp = tmp.prev
+    while (tmp.prevUser != None):
+        tmp = tmp.prevUser
     
     start = tmp 
     tmp = end 
 
-    while (tmp.next != None):
-        tmp = tmp.next
+    while (tmp.nextUser != None):
+        tmp = tmp.nextUser
 
     end = tmp 
     tmp = start
     totalPrice = 0;
     
-    while (tmp.next != None):
+    while (tmp.nextUser != None):
         totalPrice += tmp.regular 
 
     price = getPriceFromServer(start.source,end.destination)
@@ -28,6 +28,7 @@ def priceSaved(user):
     tmp = start
     while (tmp.next != None):
         tmp.savings = (tmp.regular * percentSaved)
+        tmp = tmp.nextUser
 
 
 

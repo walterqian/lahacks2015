@@ -13,8 +13,6 @@ class User(object):
         self.nextUser = None
         self.prevUser = None
 
-    def changeSavings(saved):
-        self.savings = saved
 
 class Places(object):
 
