@@ -1,0 +1,104 @@
+IRV,SAC,$98.00,12:05am - 4:40am|9:10am - 10:10am
+IRV,SAC,$76.00,12:05am - 1:30am|6:05pm - 9:13pm
+IRV,SAC,$158.00,7:48am - 8:50am|10:10am - 11:59pm
+IRV,SAC,$106.00,7:48am - 11:40am|9:10pm - 12:18am (Apr 6)
+IRV,SAC,$98.00,8:45am - 9:50am|5:35pm - 6:25pm
+IRV,SAC,$98.00,11:03am - 12:10pm|8:10pm - 9:05pm
+IRV,SAC,-,1:40pm - 2:45pm|10:15pm - 1:27am (Apr 6)
+IRV,SAC,-,1:40pm - 2:45pm|10:15pm - 1:27am (Apr 6)
+IRV,SAC,-,5:49pm - 9:45pm|6:35am - 8:23am
+IRV,SAC,-,5:49pm - 9:45pm|9:10am - 10:58am
+IRV,BKY,$85.00,12:05am - 1:30am|6:05pm - 7:24pm
+IRV,BKY,$85.00,7:48am - 11:40am|9:10pm - 10:29pm
+IRV,BKY,-,5:49pm - 9:45pm|6:35am - 6:39am
+IRV,SFP,$98.00,12:05am - 4:40am|10:50am - 11:40am
+IRV,SFP,$98.00,12:05am - 4:40am|10:55am - 11:45am
+IRV,SFP,$98.00,8:45am - 9:50am|7:15pm - 8:30pm
+IRV,SJC,$66.00,12:05am - 1:30am|1:05pm - 5:05pm
+IRV,SJC,$66.00,7:48am - 11:40am|11:45am - 6:15pm
+IRV,SJC,$135.00,7:48am - 8:50am|10:10am - 8:11pm
+IRV,SJC,$102.00,8:46am - 9:50am|5:35pm - 7:40pm
+IRV,SJC,$66.00,11:03am - 3:00pm|3:10pm - 9:10pm
+IRV,SJC,$102.00,11:03am - 12:10pm|8:05pm - 9:45pm
+IRV,SJC,-,5:49pm - 9:45pm|9:55pm - 4:20am (Apr 6)
+IRV,SCC,$72.00,12:05am - 1:30am|6:05pm - 6:11pm
+IRV,SCC,$72.00,7:48am - 11:40am|9:10pm - 9:16pm
+IRV,SCC,-,5:49pm - 9:45pm|6:40am - 6:46am
+IRV,SLO,$60.00,1:40pm - 8:30pm
+IRV,SLO,$60.00,7:48am - 11:40am|11:45am - 2:10pm
+IRV,SLO,$99.00,7:48am - 8:50am|10:10am - 3:22pm
+IRV,SLO,$60.00,11:03am - 3:00pm|3:10pm - 5:15pm
+IRV,SLO,-,5:49pm - 9:45pm|9:55pm - 12:15am (Apr 6)
+IRV,BUL,$49.00,7:48am - 11:40am|11:45am - 12:35pm
+IRV,BUL,$49.00,11:03am - 3:00pm|3:10pm - 4:05pm
+IRV,BUL,-,5:49pm - 9:45pm|9:55pm - 10:45pm
+IRV,SBA,$47.00,7:48am - 11:40am
+IRV,SBA,$47.00,11:03am - 3:00pm
+IRV,SBA,$47.00,1:40pm - 5:40pm
+IRV,SBA,$47.00,5:49pm - 9:45pm
+IRV,SBA,$68.00,7:48am - 8:50am|10:10am - 12:33pm
+IRV,SBA,$47.00,8:28pm - 9:35pm|9:50pm - 12:35am (Apr 6)
+IRV,VEC,$43.00,7:48am - 10:54am
+IRV,VEC,$43.00,11:03am - 2:14pm
+IRV,VEC,$43.00,1:40pm - 4:57pm
+IRV,VEC,$43.00,5:49pm - 9:00pm
+IRV,VEC,$43.00,8:28pm - 9:35pm|9:50pm - 11:59pm
+IRV,GDL,-,12:05am - 2:00am
+IRV,GDL,$23.00,7:48am - 9:17am
+IRV,GDL,$23.00,11:03am - 12:37pm
+IRV,GDL,$23.00,1:40pm - 3:12pm
+IRV,GDL,$23.00,5:49pm - 7:22pm
+IRV,GDL,$23.00,8:28pm - 9:35pm|9:50pm - 10:05pm
+IRV,GDL,$23.00,10:45pm - 11:50pm|1:45am (Apr 6) - 2:00am
+IRV,OLT,$29.00,8:26am - 10:02am
+IRV,OLT,$29.00,9:30am - 11:12am
+IRV,OLT,$29.00,10:53am - 12:27pm
+IRV,OLT,$29.00,12:18pm - 1:55pm
+IRV,OLT,$29.00,1:29pm - 3:07pm
+IRV,OLT,$29.00,5:07pm - 6:55pm
+IRV,OLT,$29.00,6:09pm - 7:58pm
+IRV,OLT,$29.00,8:32pm - 10:16pm
+IRV,OLT,$29.00,11:08pm - 12:52am (Apr 6)
+IRV,SAN,$29.00,7:13am - 9:00am
+IRV,SAN,$29.00,8:26am - 10:10am
+IRV,SAN,$29.00,9:30am - 11:22am
+IRV,SAN,$29.00,10:53am - 12:35pm
+IRV,SAN,$29.00,12:18pm - 2:03pm
+IRV,SAN,$29.00,1:29pm - 3:15pm
+IRV,SAN,$29.00,3:56pm - 5:47pm
+IRV,SAN,$29.00,5:07pm - 7:03pm
+IRV,SAN,$29.00,6:09pm - 8:07pm
+IRV,SAN,$29.00,8:32pm - 10:24pm
+IRV,SAN,$29.00,11:08pm - 1:00am (Apr 6)
+SOL,SAC,$173.00,6:43am - 8:50am|10:10am - 11:59pm
+SOL,SAC,$113.00,6:43am - 11:40am|9:10pm - 12:18am (Apr 6)
+SOL,SAC,$106.00,7:41am - 9:50am|5:35pm - 6:25pm
+SOL,SAC,$106.00,10:03am - 12:10pm|8:10pm - 9:05pm
+SOL,SAC,-,12:34pm - 2:45pm|10:15pm - 1:27am (Apr 6)
+SOL,SAC,-,12:34pm - 2:45pm|10:15pm - 1:27am (Apr 6)
+SOL,SAC,-,4:40pm - 9:45pm|6:35am - 8:23am
+SOL,SAC,-,4:40pm - 9:45pm|9:10am - 10:58am
+SOL,SAC,$72.00,10:45pm - 4:40am (Apr 6)|9:10am - 10:10am
+SOL,SAC,$83.00,10:45pm - 1:30am (Apr 6)|5:50pm - 8:58pm
+SOL,DAV,$171.00,6:43am - 8:50am|10:10am - 11:25pm
+SOL,DAV,$108.00,6:43am - 11:40am|9:10pm - 11:47pm
+SOL,DAV,$106.00,10:03am - 12:10pm|8:10pm - 9:30pm
+SOL,DAV,-,4:40pm - 9:45pm|6:35am - 7:57am
+SOL,DAV,-,4:40pm - 9:45pm|9:10am - 10:36am
+SOL,DAV,$72.00,10:45pm - 4:40am (Apr 6)|9:10am - 10:45am
+SOL,DAV,$82.00,10:45pm - 1:30am (Apr 6)|5:50pm - 8:27pm
+SOL,BKY,$92.00,6:43am - 11:40am|9:10pm - 10:29pm
+SOL,BKY,-,4:40pm - 9:45pm|6:35am - 6:39am
+SOL,BKY,$92.00,10:45pm - 1:30am (Apr 6)|5:50pm - 7:09pm
+SOL,OAC,$89.00,6:43am - 11:40am|9:10pm - 10:06pm
+SOL,OAC,$79.50,10:45pm - 4:40am (Apr 6)|12:03pm - 12:12pm
+SOL,OAC,$89.00,10:45pm - 1:30am (Apr 6)|5:50pm - 6:46pm
+SOL,SFP,$106.00,7:41am - 9:50am|7:15pm - 8:30pm
+SOL,SFP,$72.00,10:45pm - 4:40am (Apr 6)|10:50am - 11:40am
+SOL,SJC,$73.00,6:43am - 11:40am|11:45am - 6:15pm
+SOL,SJC,$150.00,6:43am - 8:50am|10:10am - 8:11pm
+SOL,SJC,$109.00,7:39am - 9:50am|5:35pm - 7:40pm
+SOL,SJC,$73.00,10:03am - 3:00pm|3:10pm - 9:10pm
+SOL,SJC,$109.00,10:03am - 12:10pm|8:05pm - 9:45pm
+SOL,SJC,-,4:40pm - 9:45pm|9:55pm - 4:20am (Apr 6)
+SOL,SJC,$73.00,10:45pm - 1:30am (Apr 6)|1:05pm - 5:05pm

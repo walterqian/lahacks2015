@@ -1,0 +1,103 @@
+SOL,SCC,$79.00,6:43am - 11:40am|9:10pm - 9:16pm
+SOL,SCC,-,4:40pm - 9:45pm|6:40am - 6:46am
+SOL,SCC,$79.00,10:45pm - 1:30am (Apr 6)|5:50pm - 5:56pm
+SOL,SLO,$71.00,12:34pm - 8:30pm
+SOL,SLO,$71.00,6:43am - 11:40am|11:45am - 2:10pm
+SOL,SLO,$114.00,6:43am - 8:50am|10:10am - 3:22pm
+SOL,SLO,$71.00,10:03am - 3:00pm|3:10pm - 5:15pm
+SOL,SLO,-,4:40pm - 9:45pm|9:55pm - 12:15am (Apr 6)
+SOL,SLO,$71.00,10:45pm - 1:30am (Apr 6)|7:35am - 1:00pm
+SOL,SBA,$49.00,6:43am - 11:40am
+SOL,SBA,$49.00,10:03am - 3:00pm
+SOL,SBA,$49.00,12:34pm - 5:40pm
+SOL,SBA,$49.00,4:40pm - 9:45pm
+SOL,SBA,$83.00,6:43am - 8:50am|10:10am - 12:33pm
+SOL,SBA,$49.00,7:22pm - 9:35pm|9:50pm - 12:35am (Apr 6)
+SOL,SBA,$49.00,10:45pm - 1:30am (Apr 6)|7:35am - 10:19am
+SOL,VEC,$48.00,6:43am - 10:54am
+SOL,VEC,$48.00,10:03am - 2:14pm
+SOL,VEC,$48.00,12:34pm - 4:57pm
+SOL,VEC,$48.00,4:40pm - 9:00pm
+SOL,VEC,$48.00,7:22pm - 9:35pm|9:50pm - 11:59pm
+SOL,VEC,$48.00,10:45pm - 1:30am (Apr 6)|7:35am - 9:35am
+SOL,FUL,$28.00,6:43am - 8:17am
+SOL,FUL,$28.00,7:41am - 9:14am
+SOL,FUL,$28.00,9:00am - 10:43am
+SOL,FUL,$28.00,10:03am - 11:34am
+SOL,FUL,$28.00,11:21am - 1:03pm
+SOL,FUL,$28.00,12:34pm - 2:10pm
+SOL,FUL,$28.00,2:14pm - 3:49pm
+SOL,FUL,$28.00,3:20pm - 5:05pm
+SOL,FUL,$28.00,4:40pm - 6:17pm
+SOL,FUL,$28.00,7:22pm - 8:58pm
+SOL,FUL,$28.00,9:36pm - 11:13pm
+SOL,FUL,-,10:45pm - 12:45am (Apr 6)
+SOL,IRV,$24.00,6:43am - 7:48am
+SOL,IRV,$24.00,7:41am - 8:45am
+SOL,IRV,$24.00,9:00am - 10:14am
+SOL,IRV,$24.00,10:03am - 11:03am
+SOL,IRV,$24.00,11:21am - 12:35pm
+SOL,IRV,$24.00,12:34pm - 1:40pm
+SOL,IRV,$24.00,2:14pm - 3:20pm
+SOL,IRV,$24.00,3:20pm - 4:35pm
+SOL,IRV,$24.00,4:40pm - 5:49pm
+SOL,IRV,$24.00,7:22pm - 8:28pm
+SOL,IRV,$24.00,9:36pm - 10:45pm
+SOL,IRV,-,10:45pm - 12:05am (Apr 6)
+SOL,SAN,$15.00,12:16am - 1:00am
+SOL,SAN,$15.00,8:23am - 9:00am
+SOL,SAN,$15.00,9:30am - 10:10am
+SOL,SAN,$15.00,10:42am - 11:22am
+SOL,SAN,$15.00,11:56am - 12:35pm
+SOL,SAN,$15.00,1:24pm - 2:03pm
+SOL,SAN,$15.00,2:33pm - 3:15pm
+SOL,SAN,$15.00,5:02pm - 5:47pm
+SOL,SAN,$15.00,6:12pm - 7:03pm
+SOL,SAN,$15.00,7:26pm - 8:07pm
+SOL,SAN,$15.00,9:41pm - 10:24pm
+OLT,SAC,$182.00,6:12am - 8:50am|10:10am - 11:59pm
+OLT,SAC,$113.00,6:12am - 11:40am|9:10pm - 12:18am (Apr 6)
+OLT,SAC,$110.00,7:12am - 9:50am|5:35pm - 6:25pm
+OLT,SAC,$110.00,9:32am - 12:10pm|8:10pm - 9:05pm
+OLT,SAC,-,4:07pm - 9:45pm|6:35am - 8:23am
+OLT,SAC,-,4:07pm - 9:45pm|9:10am - 10:58am
+OLT,DAV,$180.00,6:12am - 8:50am|10:10am - 11:25pm
+OLT,DAV,$108.00,6:12am - 11:40am|9:10pm - 11:47pm
+OLT,DAV,$110.00,9:32am - 12:10pm|8:10pm - 9:30pm
+OLT,DAV,-,4:07pm - 9:45pm|6:35am - 7:57am
+OLT,DAV,-,4:07pm - 9:45pm|9:10am - 10:36am
+OLT,BKY,$92.00,6:12am - 11:40am|9:10pm - 10:29pm
+OLT,BKY,-,4:07pm - 9:45pm|6:35am - 6:39am
+OLT,OAC,$89.00,6:12am - 11:40am|9:10pm - 10:06pm
+OLT,SFP,$110.00,7:12am - 9:50am|7:15pm - 8:30pm
+OLT,SJC,$73.00,6:12am - 11:40am|11:45am - 6:15pm
+OLT,SJC,$159.00,6:12am - 8:50am|10:10am - 8:11pm
+OLT,SJC,$73.00,9:32am - 3:00pm|3:10pm - 9:10pm
+OLT,SJC,$109.00,9:32am - 12:10pm|8:05pm - 9:45pm
+OLT,SJC,-,4:07pm - 9:45pm|9:55pm - 4:20am (Apr 6)
+OLT,SCC,$79.00,6:12am - 11:40am|9:10pm - 9:16pm
+OLT,SCC,-,4:07pm - 9:45pm|6:40am - 6:46am
+OLT,SLO,$75.00,6:12am - 11:40am|11:45am - 2:10pm
+OLT,SLO,$123.00,6:12am - 8:50am|10:10am - 3:22pm
+OLT,SLO,$75.00,9:32am - 3:00pm|3:10pm - 5:15pm
+OLT,SLO,-,4:07pm - 9:45pm|9:55pm - 12:15am (Apr 6)
+OLT,GVB,$73.00,6:12am - 11:40am|11:45am - 1:40pm
+OLT,GVB,$73.00,9:32am - 3:00pm|3:10pm - 5:30pm
+OLT,GVB,-,4:07pm - 9:45pm|9:55pm - 11:50pm
+OLT,BUL,$64.00,6:12am - 11:40am|11:45am - 12:35pm
+OLT,BUL,$64.00,9:32am - 3:00pm|3:10pm - 4:05pm
+OLT,BUL,-,4:07pm - 9:45pm|9:55pm - 10:45pm
+OLT,SBA,$52.00,6:12am - 11:40am
+OLT,SBA,$52.00,9:32am - 3:00pm
+OLT,SBA,$52.00,4:07pm - 9:45pm
+OLT,SBA,$92.00,6:12am - 8:50am|10:10am - 12:33pm
+OLT,SBA,$52.00,6:52pm - 9:35pm|9:50pm - 12:35am (Apr 6)
+OLT,VEC,$49.00,6:12am - 10:54am
+OLT,VEC,$49.00,9:32am - 2:14pm
+OLT,VEC,$49.00,4:07pm - 9:00pm
+OLT,VEC,$49.00,6:52pm - 9:35pm|9:50pm - 11:59pm
+OLT,GDL,$47.00,6:12am - 9:17am
+OLT,GDL,$47.00,9:32am - 12:37pm
+OLT,GDL,$47.00,4:07pm - 7:22pm
+OLT,GDL,$47.00,6:52pm - 9:35pm|9:50pm - 10:05pm
+OLT,GDL,$47.00,9:07pm - 11:50pm|1:45am (Apr 6) - 2:00am

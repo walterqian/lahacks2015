@@ -1,0 +1,101 @@
+BUL,IRV,$49.00,5:20am - 6:30am|6:49am - 10:53am
+BUL,IRV,$49.00,12:40pm - 1:45pm|2:04pm - 6:09pm
+BUL,IRV,$49.00,5:15pm - 6:40pm|6:59pm - 11:08pm
+BUL,SOL,$59.00,5:20am - 6:30am|6:49am - 11:56am
+BUL,SOL,$59.00,12:40pm - 1:45pm|2:04pm - 7:26pm
+BUL,SOL,$59.00,5:15pm - 6:40pm|6:59pm - 12:16am (Apr 6)
+BUL,OLT,$64.00,5:20am - 6:30am|6:49am - 12:27pm
+BUL,OLT,$64.00,12:40pm - 1:45pm|2:04pm - 7:58pm
+BUL,OLT,$64.00,5:15pm - 6:40pm|6:59pm - 12:52am (Apr 6)
+BUL,SAN,$64.00,5:20am - 6:30am|6:49am - 12:35pm
+BUL,SAN,$64.00,12:40pm - 1:45pm|2:04pm - 8:07pm
+BUL,SAN,$64.00,5:15pm - 6:40pm|6:59pm - 1:00am (Apr 6)
+SBA,SAC,$96.00,12:40pm - 11:59pm
+SBA,SAC,$78.00,6:05am - 9:55am|2:25pm - 3:15pm
+SBA,SAC,$78.00,6:05am - 9:55am|2:25pm - 3:30pm
+SBA,SAC,$65.00,8:30am - 2:45pm|3:40pm - 6:48pm
+SBA,SAC,$96.00,9:10am - 1:05pm|5:35pm - 6:25pm
+SBA,SAC,$65.00,10:22am - 1:00pm|6:05pm - 9:13pm
+SBA,SAC,$65.00,11:45am - 6:15pm|9:10pm - 12:18am (Apr 6)
+SBA,SAC,-,2:05pm - 6:05pm|10:15pm - 1:27am (Apr 6)
+SBA,SAC,-,2:05pm - 6:05pm|10:15pm - 1:27am (Apr 6)
+SBA,SAC,-,9:55pm - 6:05am (Apr 6)|6:25am - 8:23am
+SBA,SAC,-,9:55pm - 5:55am (Apr 6)|6:35am - 8:23am
+SBA,SAC,-,9:55pm - 5:55am (Apr 6)|9:10am - 10:58am
+SBA,DAV,$94.00,12:40pm - 11:25pm
+SBA,DAV,$65.00,8:30am - 2:45pm|3:40pm - 6:17pm
+SBA,DAV,$96.00,9:10am - 1:05pm|5:35pm - 7:10pm
+SBA,DAV,$65.00,10:22am - 1:00pm|6:05pm - 8:42pm
+SBA,DAV,$65.00,11:45am - 6:15pm|9:10pm - 11:47pm
+SBA,DAV,-,9:55pm - 6:05am (Apr 6)|6:25am - 7:57am
+SBA,DAV,-,9:55pm - 5:55am (Apr 6)|6:35am - 7:57am
+SBA,DAV,-,9:55pm - 5:55am (Apr 6)|9:10am - 10:36am
+SBA,SFP,$66.50,8:30am - 2:45pm|5:35pm - 6:55pm
+SBA,SJC,-,8:30am - 2:45pm
+SBA,SJC,-,11:45am - 6:15pm
+SBA,SJC,$80.00,12:40pm - 8:11pm
+SBA,SJC,-,3:10pm - 9:10pm
+SBA,SJC,-,9:55pm - 4:20am (Apr 6)
+SBA,SJC,$86.00,6:05am - 9:55am|2:30pm - 4:20pm
+SBA,SJC,$58.00,10:22am - 1:00pm|1:05pm - 5:05pm
+SBA,SLO,-,8:30am - 10:45am
+SBA,SLO,$43.00,10:22am - 1:00pm
+SBA,SLO,-,11:45am - 2:10pm
+SBA,SLO,$27.00,12:40pm - 3:22pm
+SBA,SLO,-,3:10pm - 5:15pm
+SBA,SLO,$43.00,5:43pm - 8:30pm
+SBA,SLO,-,9:55pm - 12:15am (Apr 6)
+SBA,SLO,$64.00,6:05am - 9:55am|12:15pm - 3:05pm
+SBA,GVB,-,8:30am - 10:25am
+SBA,GVB,$39.00,10:22am - 12:35pm
+SBA,GVB,-,11:45am - 1:40pm
+SBA,GVB,-,3:10pm - 5:30pm
+SBA,GVB,$39.00,5:43pm - 7:54pm
+SBA,GVB,-,9:55pm - 11:50pm
+SBA,GVB,$64.00,6:05am - 9:55am|12:15pm - 3:30pm
+SBA,VEC,$18.00,6:49am - 7:29am
+SBA,VEC,$18.00,9:27am - 10:04am
+SBA,VEC,-,12:55pm - 1:25pm
+SBA,VEC,$18.00,2:04pm - 2:41pm
+SBA,VEC,$18.00,4:35pm - 5:16pm
+SBA,VEC,$18.00,6:59pm - 7:37pm
+SBA,GDL,$36.00,6:49am - 9:16am
+SBA,GDL,$36.00,9:27am - 11:45am
+SBA,GDL,$36.00,2:04pm - 4:32pm
+SBA,GDL,$36.00,4:35pm - 6:59pm
+SBA,GDL,$36.00,6:59pm - 9:23pm
+SBA,LAX,$38.00,6:49am - 9:35am
+SBA,LAX,$38.00,9:27am - 12:15pm
+SBA,LAX,-,12:55pm - 3:35pm
+SBA,LAX,$38.00,2:04pm - 4:55pm
+SBA,LAX,$38.00,4:35pm - 7:15pm
+SBA,LAX,$29.00,6:02pm - 9:00pm
+SBA,LAX,$38.00,6:59pm - 9:45pm
+SBA,FUL,$41.00,6:49am - 10:20am
+SBA,FUL,$41.00,9:27am - 1:00pm
+SBA,FUL,$41.00,2:04pm - 5:40pm
+SBA,FUL,$41.00,4:35pm - 8:00pm
+SBA,FUL,$41.00,6:59pm - 10:40pm
+SBA,FUL,$41.00,12:55pm - 3:35pm|4:10pm - 4:40pm
+SBA,FUL,$41.00,6:02pm - 9:00pm|10:10pm - 10:40pm
+SBA,ANA,$44.00,6:49am - 10:31am
+SBA,ANA,$44.00,9:27am - 1:09pm
+SBA,ANA,$44.00,2:04pm - 5:49pm
+SBA,ANA,$44.00,4:35pm - 8:11pm
+SBA,ANA,$44.00,6:59pm - 10:49pm
+SBA,ANA,$44.00,12:55pm - 3:35pm|4:10pm - 4:48pm
+SBA,ANA,$44.00,6:02pm - 9:00pm|10:10pm - 10:49pm
+SBA,IRV,$47.00,6:49am - 10:53am
+SBA,IRV,$47.00,9:27am - 1:29pm
+SBA,IRV,$47.00,2:04pm - 6:09pm
+SBA,IRV,$47.00,4:35pm - 8:32pm
+SBA,IRV,$47.00,6:59pm - 11:08pm
+SBA,IRV,$47.00,12:55pm - 3:35pm|4:10pm - 5:07pm
+SBA,IRV,$47.00,6:02pm - 9:00pm|10:10pm - 11:08pm
+SBA,SOL,$49.00,6:49am - 11:56am
+SBA,SOL,$49.00,9:27am - 2:33pm
+SBA,SOL,$49.00,2:04pm - 7:26pm
+SBA,SOL,$49.00,4:35pm - 9:41pm
+SBA,SOL,$49.00,6:59pm - 12:16am (Apr 6)
+SBA,SOL,$49.00,12:55pm - 3:35pm|4:10pm - 6:12pm
+SBA,SOL,$50.00,6:02pm - 9:00pm|10:10pm - 12:16am (Apr 6)

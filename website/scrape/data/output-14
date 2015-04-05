@@ -1,0 +1,108 @@
+OLT,LAX,$46.00,6:12am - 8:50am
+OLT,LAX,$46.00,7:12am - 9:50am
+OLT,LAX,$46.00,8:31am - 11:18am
+OLT,LAX,$46.00,9:32am - 12:10pm
+OLT,LAX,$46.00,10:49am - 1:38pm
+OLT,LAX,$46.00,2:47pm - 5:40pm
+OLT,LAX,$46.00,4:07pm - 6:55pm
+OLT,LAX,$46.00,6:52pm - 9:35pm
+OLT,LAX,$46.00,9:07pm - 11:50pm
+OLT,FUL,$36.00,6:12am - 8:17am
+OLT,FUL,$36.00,7:12am - 9:14am
+OLT,FUL,$36.00,8:31am - 10:43am
+OLT,FUL,$36.00,9:32am - 11:34am
+OLT,FUL,$36.00,10:49am - 1:03pm
+OLT,FUL,$36.00,2:47pm - 5:05pm
+OLT,FUL,$36.00,4:07pm - 6:17pm
+OLT,FUL,$36.00,6:52pm - 8:58pm
+OLT,FUL,$36.00,9:07pm - 11:13pm
+OLT,ANA,$35.00,6:12am - 8:08am
+OLT,ANA,$35.00,7:12am - 9:05am
+OLT,ANA,$35.00,8:31am - 10:34am
+OLT,ANA,$35.00,9:32am - 11:24am
+OLT,ANA,$35.00,10:49am - 12:53pm
+OLT,ANA,$35.00,2:47pm - 4:55pm
+OLT,ANA,$35.00,4:07pm - 6:08pm
+OLT,ANA,$35.00,6:52pm - 8:48pm
+OLT,ANA,$35.00,9:07pm - 11:04pm
+OLT,IRV,$29.00,6:12am - 7:48am
+OLT,IRV,$29.00,7:12am - 8:45am
+OLT,IRV,$29.00,8:31am - 10:14am
+OLT,IRV,$29.00,9:32am - 11:03am
+OLT,IRV,$29.00,10:49am - 12:35pm
+OLT,IRV,$29.00,2:47pm - 4:35pm
+OLT,IRV,$29.00,4:07pm - 5:49pm
+OLT,IRV,$29.00,6:52pm - 8:28pm
+OLT,IRV,$29.00,9:07pm - 10:45pm
+SAN,SAC,$182.00,6:05am - 8:50am|10:10am - 11:59pm
+SAN,SAC,$116.00,6:05am - 11:40am|9:10pm - 12:18am (Apr 6)
+SAN,SAC,$110.00,7:05am - 9:50am|5:35pm - 6:25pm
+SAN,SAC,$110.00,9:25am - 12:10pm|8:10pm - 9:05pm
+SAN,SAC,-,12:00pm - 2:45pm|10:15pm - 1:27am (Apr 6)
+SAN,SAC,-,12:00pm - 2:45pm|10:15pm - 1:27am (Apr 6)
+SAN,SAC,-,4:00pm - 9:45pm|6:35am - 8:23am
+SAN,SAC,-,4:00pm - 9:45pm|9:10am - 10:58am
+SAN,SAC,$75.00,10:15pm - 4:40am (Apr 6)|9:10am - 10:10am
+SAN,SAC,$87.00,10:15pm - 1:30am (Apr 6)|5:50pm - 8:58pm
+SAN,BKY,$95.00,6:05am - 11:40am|9:10pm - 10:29pm
+SAN,BKY,-,4:00pm - 9:45pm|6:35am - 6:39am
+SAN,BKY,$95.00,10:15pm - 1:30am (Apr 6)|5:50pm - 7:09pm
+SAN,OAC,$92.00,6:05am - 11:40am|9:10pm - 10:06pm
+SAN,OAC,$82.50,10:15pm - 4:40am (Apr 6)|12:03pm - 12:12pm
+SAN,OAC,$92.00,10:15pm - 1:30am (Apr 6)|5:50pm - 6:46pm
+SAN,SFP,$110.00,7:05am - 9:50am|7:15pm - 8:30pm
+SAN,SFP,$75.00,10:15pm - 4:40am (Apr 6)|10:50am - 11:40am
+SAN,SJC,$76.00,6:05am - 11:40am|11:45am - 6:15pm
+SAN,SJC,$159.00,6:05am - 8:50am|10:10am - 8:11pm
+SAN,SJC,$118.00,7:05am - 9:50am|5:35pm - 7:40pm
+SAN,SJC,$76.00,9:25am - 3:00pm|3:10pm - 9:10pm
+SAN,SJC,$118.00,9:25am - 12:10pm|8:05pm - 9:45pm
+SAN,SJC,-,4:00pm - 9:45pm|9:55pm - 4:20am (Apr 6)
+SAN,SJC,$76.00,10:15pm - 1:30am (Apr 6)|1:05pm - 5:05pm
+SAN,SLO,$75.00,12:00pm - 8:30pm
+SAN,SLO,$75.00,6:05am - 11:40am|11:45am - 2:10pm
+SAN,SLO,$123.00,6:05am - 8:50am|10:10am - 3:22pm
+SAN,SLO,$75.00,9:25am - 3:00pm|3:10pm - 5:15pm
+SAN,SLO,-,4:00pm - 9:45pm|9:55pm - 12:15am (Apr 6)
+SAN,SLO,$75.00,10:15pm - 1:30am (Apr 6)|7:35am - 1:00pm
+SAN,GVB,$73.00,12:00pm - 7:54pm
+SAN,GVB,$73.00,6:05am - 11:40am|11:45am - 1:40pm
+SAN,GVB,$73.00,9:25am - 3:00pm|3:10pm - 5:30pm
+SAN,GVB,-,4:00pm - 9:45pm|9:55pm - 11:50pm
+SAN,GVB,$73.00,10:15pm - 1:30am (Apr 6)|7:35am - 12:35pm
+SAN,BUL,$64.00,6:05am - 11:40am|11:45am - 12:35pm
+SAN,BUL,$64.00,9:25am - 3:00pm|3:10pm - 4:05pm
+SAN,BUL,-,4:00pm - 9:45pm|9:55pm - 10:45pm
+SAN,SBA,$52.00,6:05am - 11:40am
+SAN,SBA,$52.00,9:25am - 3:00pm
+SAN,SBA,$52.00,12:00pm - 5:40pm
+SAN,SBA,$52.00,4:00pm - 9:45pm
+SAN,SBA,$92.00,6:05am - 8:50am|10:10am - 12:33pm
+SAN,SBA,$52.00,6:45pm - 9:35pm|9:50pm - 12:35am (Apr 6)
+SAN,SBA,$52.00,10:15pm - 1:30am (Apr 6)|7:35am - 10:19am
+SAN,VEC,$49.00,6:05am - 10:54am
+SAN,VEC,$49.00,9:25am - 2:14pm
+SAN,VEC,$49.00,12:00pm - 4:57pm
+SAN,VEC,$49.00,4:00pm - 9:00pm
+SAN,VEC,$49.00,6:45pm - 9:35pm|9:50pm - 11:59pm
+SAN,VEC,$49.00,10:15pm - 1:30am (Apr 6)|7:35am - 9:35am
+SAN,GDL,$47.00,6:05am - 9:17am
+SAN,GDL,$47.00,9:25am - 12:37pm
+SAN,GDL,$47.00,12:00pm - 3:12pm
+SAN,GDL,$47.00,4:00pm - 7:22pm
+SAN,GDL,-,10:15pm - 2:00am (Apr 6)
+SAN,GDL,$47.00,6:45pm - 9:35pm|9:50pm - 10:05pm
+SAN,GDL,$47.00,9:00pm - 11:50pm|1:45am (Apr 6) - 2:00am
+SAN,GDL,$47.00,10:15pm - 1:30am (Apr 6)|7:35am - 7:48am
+SAN,LAX,$46.00,6:05am - 8:50am
+SAN,LAX,$46.00,7:05am - 9:50am
+SAN,LAX,$46.00,8:24am - 11:18am
+SAN,LAX,$46.00,9:25am - 12:10pm
+SAN,LAX,$46.00,10:42am - 1:38pm
+SAN,LAX,$46.00,12:00pm - 2:45pm
+SAN,LAX,$46.00,1:40pm - 4:25pm
+SAN,LAX,$46.00,2:40pm - 5:40pm
+SAN,LAX,$46.00,4:00pm - 6:55pm
+SAN,LAX,$46.00,6:45pm - 9:35pm
+SAN,LAX,$46.00,9:00pm - 11:50pm
+SAN,LAX,-,10:15pm - 1:30am (Apr 6)

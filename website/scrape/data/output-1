@@ -1,0 +1,111 @@
+SAC,LAX,-,6:35am - 9:00pm
+SAC,LAX,$69.00,5:50am - 8:58am|1:55pm - 7:15pm
+SAC,LAX,$158.00,6:35am - 5:55pm|6:59pm - 9:45pm
+SAC,LAX,$71.00,6:40am - 12:02pm|12:10pm - 2:30pm
+SAC,LAX,$87.00,7:45am - 8:40am|1:50pm - 4:10pm
+SAC,LAX,$69.00,8:10am - 11:18am|6:59pm - 9:45pm
+SAC,LAX,$87.00,10:25am - 11:35am|4:20pm - 6:40pm
+SAC,LAX,-,12:10pm - 2:01pm|10:10pm - 12:30am (Apr 6)
+SAC,LAX,$87.00,1:25pm - 2:40pm|7:30pm - 9:50pm
+SAC,LAX,-,4:55pm - 10:07pm|10:10pm - 12:30am (Apr 6)
+SAC,LAX,$71.00,6:25pm - 7:20pm|12:20am - 2:40am
+SAC,LAX,$69.00,7:10pm - 8:48pm|6:49am - 9:35am
+SAC,FUL,$105.00,5:50am - 8:58am|1:55pm - 8:00pm
+SAC,FUL,$151.00,6:35am - 9:00pm|10:10pm - 10:40pm
+SAC,FUL,$161.00,6:35am - 5:55pm|6:59pm - 10:40pm
+SAC,FUL,$75.00,6:40am - 12:02pm|3:00pm - 3:30pm
+SAC,FUL,$92.00,7:45am - 8:40am|5:10pm - 5:40pm
+SAC,FUL,$105.00,8:10am - 11:18am|6:59pm - 10:40pm
+SAC,FUL,-,12:10pm - 2:01pm|10:10pm - 1:15am (Apr 6)
+SAC,FUL,$92.00,1:25pm - 2:40pm|10:10pm - 10:40pm
+SAC,FUL,-,4:55pm - 10:07pm|10:10pm - 1:15am (Apr 6)
+SAC,FUL,$75.00,6:25pm - 7:20pm|12:20am - 3:25am
+SAC,FUL,$91.00,7:10pm - 8:48pm|6:49am - 10:20am
+SAC,ANA,$105.00,5:50am - 8:58am|1:55pm - 8:11pm
+SAC,ANA,$154.00,6:35am - 9:00pm|10:10pm - 10:49pm
+SAC,ANA,$164.00,6:35am - 5:55pm|6:59pm - 10:49pm
+SAC,ANA,$77.00,6:40am - 12:02pm|3:00pm - 3:38pm
+SAC,ANA,$94.00,7:45am - 8:40am|5:10pm - 5:49pm
+SAC,ANA,$105.00,8:10am - 11:18am|6:59pm - 10:49pm
+SAC,ANA,$94.00,1:25pm - 2:40pm|10:10pm - 10:49pm
+SAC,ANA,$93.00,7:10pm - 8:48pm|6:49am - 10:31am
+SAC,SOL,$113.00,5:50am - 8:58am|1:55pm - 9:41pm
+SAC,SOL,$173.00,6:35am - 9:00pm|10:10pm - 12:16am (Apr 6)
+SAC,SOL,$169.00,6:35am - 5:55pm|6:59pm - 12:16am (Apr 6)
+SAC,SOL,$86.00,6:40am - 12:02pm|3:00pm - 5:02pm
+SAC,SOL,$106.00,7:45am - 8:40am|5:10pm - 7:26pm
+SAC,SOL,$113.00,8:10am - 11:18am|6:59pm - 12:16am (Apr 6)
+SAC,SOL,$106.00,1:25pm - 2:40pm|10:10pm - 12:16am (Apr 6)
+SAC,SOL,$86.00,6:25pm - 7:20pm|12:20am - 5:10am
+SAC,SOL,$101.00,7:10pm - 8:48pm|6:49am - 11:56am
+SAC,OLT,$113.00,5:50am - 8:58am|1:55pm - 10:16pm
+SAC,OLT,$182.00,6:35am - 9:00pm|10:10pm - 12:52am (Apr 6)
+SAC,OLT,$172.00,6:35am - 5:55pm|6:59pm - 12:52am (Apr 6)
+SAC,OLT,$110.00,7:45am - 8:40am|5:10pm - 7:58pm
+SAC,OLT,$113.00,8:10am - 11:18am|6:59pm - 12:52am (Apr 6)
+SAC,OLT,$110.00,1:25pm - 2:40pm|10:10pm - 12:52am (Apr 6)
+SAC,OLT,$104.00,7:10pm - 8:48pm|6:49am - 12:27pm
+DAV,BKY,$24.00,6:05am - 7:22am
+DAV,BKY,$24.00,8:25am - 9:42am
+DAV,BKY,$24.00,9:30am - 10:47am
+DAV,BKY,$24.00,10:55am - 12:12pm
+DAV,BKY,$24.00,12:25pm - 1:42pm
+DAV,BKY,$24.00,2:25pm - 3:42pm
+DAV,BKY,$24.00,4:10pm - 5:27pm
+DAV,BKY,$24.00,4:55pm - 6:12pm
+DAV,BKY,$24.00,5:55pm - 7:12pm
+DAV,BKY,$24.00,7:25pm - 8:42pm
+DAV,BKY,$24.00,9:25pm - 10:42pm
+DAV,BKY,$35.00,6:50am - 7:34am|11:40am - 12:12pm
+DAV,OAC,$27.00,6:05am - 7:52am
+DAV,OAC,$27.00,8:25am - 10:12am
+DAV,OAC,$27.00,9:30am - 11:17am
+DAV,OAC,$27.00,10:55am - 12:45pm
+DAV,OAC,$27.00,12:25pm - 2:12pm
+DAV,OAC,$27.00,2:25pm - 4:12pm
+DAV,OAC,$27.00,4:10pm - 6:00pm
+DAV,OAC,$27.00,5:55pm - 7:42pm
+DAV,OAC,$38.00,6:50am - 7:34am|11:40am - 12:45pm
+DAV,SFP,$30.00,6:05am - 7:28am|7:30am - 8:50am
+DAV,SFP,$31.00,6:50am - 8:10am|8:25am - 9:45am
+DAV,SFP,$30.00,8:25am - 9:48am|9:50am - 10:40am
+DAV,SFP,$30.00,8:25am - 9:48am|8:40am (Apr 6) - 9:30am
+DAV,SFP,$30.00,9:30am - 10:53am|10:55am - 11:45am
+DAV,SFP,$30.00,10:55am - 12:18pm|12:20pm - 1:40pm
+DAV,SFP,$30.00,12:25pm - 1:48pm|1:50pm - 3:10pm
+DAV,SFP,$30.00,4:10pm - 5:33pm|5:35pm - 6:55pm
+DAV,SFP,$30.00,4:55pm - 6:18pm|6:20pm - 7:10pm
+DAV,SFP,$30.00,5:55pm - 7:18pm|7:20pm - 8:30pm
+DAV,SFP,$30.00,7:25pm - 8:48pm|8:50pm - 10:00pm
+DAV,SCC,$35.00,6:05am - 8:44am
+DAV,SCC,$35.00,8:25am - 11:04am
+DAV,SCC,$35.00,9:30am - 12:09pm
+DAV,SCC,$35.00,12:25pm - 3:04pm
+DAV,SCC,$35.00,2:25pm - 5:04pm
+DAV,SCC,$35.00,4:10pm - 6:55pm
+DAV,SCC,$35.00,5:55pm - 8:34pm
+DAV,BUL,$125.00,6:50am - 3:07pm|7:10pm - 8:35pm
+DAV,BUL,$61.00,8:25am - 11:18am|11:35am - 5:15pm
+DAV,BUL,$61.00,12:25pm - 3:18pm|3:25pm - 8:35pm
+DAV,BUL,$61.00,7:25pm - 8:48pm|10:15pm - 5:20am (Apr 6)
+DAV,GDL,$71.00,5:55am - 6:25am|12:10pm - 2:20pm
+DAV,GDL,$97.00,6:05am - 8:58am|1:55pm - 6:59pm
+DAV,GDL,$153.00,6:50am - 5:55pm|6:59pm - 9:23pm
+DAV,GDL,$87.00,7:15am - 8:40am|1:50pm - 4:00pm
+DAV,GDL,$97.00,8:25am - 11:18am|6:59pm - 9:23pm
+DAV,GDL,$87.00,9:30am - 11:35am|4:20pm - 6:30pm
+DAV,GDL,-,12:25pm - 2:01pm|10:10pm - 12:15am (Apr 6)
+DAV,GDL,$71.00,12:50pm - 2:40pm|7:30pm - 9:40pm
+DAV,GDL,-,3:27pm - 3:58pm|10:10pm - 12:15am (Apr 6)
+DAV,GDL,$86.00,7:25pm - 8:48pm|6:49am - 9:16am
+DAV,LAX,-,6:50am - 9:00pm
+DAV,LAX,$71.00,5:55am - 6:25am|12:10pm - 2:30pm
+DAV,LAX,$68.00,6:05am - 8:58am|1:55pm - 7:15pm
+DAV,LAX,$155.00,6:50am - 5:55pm|6:59pm - 9:45pm
+DAV,LAX,$87.00,7:15am - 8:40am|1:50pm - 4:10pm
+DAV,LAX,$68.00,8:25am - 11:18am|6:59pm - 9:45pm
+DAV,LAX,$87.00,9:30am - 11:35am|4:20pm - 6:40pm
+DAV,LAX,-,12:25pm - 2:01pm|10:10pm - 12:30am (Apr 6)
+DAV,LAX,$71.00,12:50pm - 2:40pm|7:30pm - 9:50pm
+DAV,LAX,-,3:27pm - 3:58pm|10:10pm - 12:30am (Apr 6)
+DAV,LAX,$68.00,7:25pm - 8:48pm|6:49am - 9:35am

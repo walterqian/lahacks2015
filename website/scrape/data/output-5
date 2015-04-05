@@ -1,0 +1,102 @@
+SCC,DAV,$35.00,7:56am - 10:27am
+SCC,DAV,$35.00,10:16am - 12:47pm
+SCC,DAV,$35.00,12:56pm - 3:27pm
+SCC,DAV,$35.00,3:46pm - 6:17pm
+SCC,DAV,$35.00,5:16pm - 7:52pm
+SCC,DAV,$35.00,6:11pm - 8:42pm
+SCC,DAV,$35.00,9:16pm - 11:47pm
+SCC,BKY,$19.00,7:56am - 9:09am
+SCC,BKY,$19.00,10:16am - 11:29am
+SCC,BKY,$19.00,12:56pm - 2:09pm
+SCC,BKY,$19.00,3:46pm - 4:59pm
+SCC,BKY,$19.00,5:16pm - 6:34pm
+SCC,BKY,$19.00,6:11pm - 7:24pm
+SCC,BKY,$19.00,9:16pm - 10:29pm
+SCC,OAC,$16.00,7:56am - 8:46am
+SCC,OAC,$16.00,10:16am - 11:06am
+SCC,OAC,$16.00,12:56pm - 1:46pm
+SCC,OAC,$16.00,3:46pm - 4:36pm
+SCC,OAC,$16.00,5:16pm - 6:06pm
+SCC,OAC,$16.00,6:11pm - 7:01pm
+SCC,OAC,$16.00,9:16pm - 10:06pm
+SCC,SFP,$24.50,7:56am - 9:03am|12:20pm - 1:40pm
+SCC,SFP,$24.50,10:16am - 11:23am|12:20pm - 1:40pm
+SCC,SFP,$24.50,3:46pm - 4:53pm|5:35pm - 6:55pm
+SCC,SFP,$24.50,6:11pm - 7:18pm|7:20pm - 8:30pm
+SCC,SJC,$6.00,8:44am - 8:58am
+SCC,SJC,$6.00,11:04am - 11:18am
+SCC,SJC,$6.00,12:09pm - 12:23pm
+SCC,SJC,$6.00,3:04pm - 3:18pm
+SCC,SJC,$6.00,5:04pm - 5:18pm
+SCC,SJC,$6.00,6:55pm - 7:08pm
+SCC,SJC,$6.00,8:34pm - 8:48pm
+SCC,SLO,$40.00,8:44am - 8:58am|9:15am - 1:20pm
+SCC,SLO,$40.00,11:04am - 11:18am|11:35am - 3:30pm
+SCC,SLO,$38.00,3:04pm - 3:18pm|3:25pm - 7:10pm
+SCC,GVB,$42.00,8:44am - 8:58am|1:55pm - 2:15pm
+SCC,GVB,$42.00,11:04am - 11:18am|11:35am - 4:10pm
+SCC,GVB,$42.00,3:04pm - 3:18pm|3:25pm - 7:30pm
+SCC,BUL,$54.00,11:04am - 11:18am|11:35am - 5:15pm
+SCC,BUL,$54.00,3:04pm - 3:18pm|3:25pm - 8:35pm
+SCC,SBA,$57.00,8:44am - 8:58am|1:55pm - 4:32pm
+SCC,SBA,$57.00,11:04am - 11:18am|11:35am - 6:40pm
+SCC,SBA,$57.00,3:04pm - 3:18pm|3:25pm - 9:30pm
+SCC,VEC,$67.00,8:44am - 8:58am|1:55pm - 5:16pm
+SCC,VEC,$67.00,11:04am - 11:18am|6:59pm - 7:37pm
+SCC,GDL,$68.00,8:44am - 8:58am|1:55pm - 6:59pm
+SCC,GDL,$68.00,11:04am - 11:18am|6:59pm - 9:23pm
+SCC,GDL,-,12:56pm - 3:58pm|10:10pm - 12:15am (Apr 6)
+SCC,LAX,$68.00,8:44am - 8:58am|1:55pm - 7:15pm
+SCC,LAX,$68.00,11:04am - 11:18am|6:59pm - 9:45pm
+SCC,LAX,-,12:56pm - 3:58pm|10:10pm - 12:30am (Apr 6)
+SCC,ANA,$71.00,8:44am - 8:58am|1:55pm - 8:11pm
+SCC,ANA,$71.00,11:04am - 11:18am|6:59pm - 10:49pm
+SCC,SAN,$82.00,8:44am - 8:58am|1:55pm - 10:24pm
+SCC,SAN,$82.00,11:04am - 11:18am|6:59pm - 1:00am (Apr 6)
+SLO,SAC,$84.00,3:35pm - 11:59pm
+SLO,SAC,$57.00,12:20am - 6:05am|7:50am - 9:48am
+SLO,SAC,$57.00,12:20am - 5:55am|8:00am - 9:48am
+SLO,SAC,$101.00,12:20am - 5:55am|9:10am - 10:58am
+SLO,SAC,$56.00,7:55am - 11:05am|2:25pm - 3:15pm
+SLO,SAC,$56.00,7:55am - 11:05am|2:25pm - 3:30pm
+SLO,SAC,$57.00,10:55am - 2:45pm|3:40pm - 6:48pm
+SLO,SAC,$57.00,1:05pm - 5:05pm|6:05pm - 9:13pm
+SLO,SAC,$57.00,2:10pm - 6:15pm|9:10pm - 12:18am (Apr 6)
+SLO,DAV,$81.00,3:35pm - 11:25pm
+SLO,DAV,$56.00,12:20am - 6:05am|7:50am - 9:22am
+SLO,DAV,$56.00,12:20am - 5:55am|8:00am - 9:22am
+SLO,DAV,$69.00,12:20am - 5:55am|9:10am - 10:36am
+SLO,DAV,$56.00,10:55am - 2:45pm|3:40pm - 6:17pm
+SLO,DAV,$56.00,1:05pm - 5:05pm|6:05pm - 8:42pm
+SLO,DAV,$56.00,2:10pm - 6:15pm|9:10pm - 11:47pm
+SLO,OAC,$68.50,7:55am - 11:05am|5:48pm - 6:00pm
+SLO,OAC,$45.00,10:55am - 2:45pm|3:40pm - 4:36pm
+SLO,OAC,$45.00,1:05pm - 5:05pm|6:05pm - 7:01pm
+SLO,OAC,$45.00,2:10pm - 6:15pm|9:10pm - 10:06pm
+SLO,SJC,-,12:20am - 4:20am
+SLO,SJC,-,10:55am - 2:45pm
+SLO,SJC,-,1:05pm - 5:05pm
+SLO,SJC,-,2:10pm - 6:15pm
+SLO,SJC,$50.00,3:35pm - 8:11pm
+SLO,SJC,-,5:20pm - 9:10pm
+SLO,SJC,$61.00,7:55am - 11:05am|2:30pm - 4:20pm
+SLO,SCC,$38.00,10:55am - 2:45pm|3:40pm - 3:46pm
+SLO,SCC,$40.00,1:05pm - 5:05pm|6:05pm - 6:11pm
+SLO,SCC,$40.00,2:10pm - 6:15pm|9:10pm - 9:16pm
+SLO,SBA,-,3:50am - 6:30am
+SLO,SBA,$43.00,6:55am - 9:24am
+SLO,SBA,-,10:30am - 1:45pm
+SLO,SBA,-,11:25am - 1:45pm
+SLO,SBA,$43.00,1:55pm - 4:32pm
+SLO,SBA,$33.00,3:20pm - 5:55pm
+SLO,SBA,-,3:40pm - 6:40pm
+SLO,SBA,-,7:10pm - 9:30pm
+SLO,GDL,$51.00,6:55am - 11:45am
+SLO,GDL,$51.00,1:55pm - 6:59pm
+SLO,GDL,$51.00,3:50am - 6:30am|6:49am - 9:16am
+SLO,GDL,$62.00,7:55am - 11:05am|1:50pm - 4:00pm
+SLO,GDL,$51.00,10:30am - 1:45pm|2:04pm - 4:32pm
+SLO,GDL,$51.00,11:25am - 1:45pm|2:04pm - 4:32pm
+SLO,GDL,$69.00,3:20pm - 5:55pm|6:59pm - 9:23pm
+SLO,GDL,$51.00,3:40pm - 6:40pm|6:59pm - 9:23pm
+SLO,GDL,-,3:55pm - 7:05pm|10:10pm - 12:15am (Apr 6)

@@ -1,0 +1,101 @@
+SLO,LAX,$51.00,6:55am - 12:15pm
+SLO,LAX,$51.00,1:55pm - 7:15pm
+SLO,LAX,$49.00,3:20pm - 9:00pm
+SLO,LAX,$51.00,3:50am - 6:30am|6:49am - 9:35am
+SLO,LAX,$51.00,10:30am - 1:45pm|2:04pm - 4:55pm
+SLO,LAX,$51.00,11:25am - 1:45pm|2:04pm - 4:55pm
+SLO,LAX,$71.00,3:20pm - 5:55pm|6:59pm - 9:45pm
+SLO,LAX,$51.00,3:40pm - 6:40pm|6:59pm - 9:45pm
+SLO,LAX,-,3:55pm - 7:05pm|10:10pm - 12:30am (Apr 6)
+SLO,ANA,$57.00,6:55am - 1:09pm
+SLO,ANA,$57.00,1:55pm - 8:11pm
+SLO,ANA,$57.00,3:50am - 6:30am|6:49am - 10:31am
+SLO,ANA,$57.00,10:30am - 1:45pm|2:04pm - 5:49pm
+SLO,ANA,$57.00,11:25am - 1:45pm|2:04pm - 5:49pm
+SLO,ANA,$57.00,3:20pm - 9:00pm|10:10pm - 10:49pm
+SLO,ANA,$77.00,3:20pm - 5:55pm|6:59pm - 10:49pm
+SLO,ANA,$57.00,3:40pm - 6:40pm|6:59pm - 10:49pm
+SLO,IRV,$60.00,6:55am - 1:29pm
+SLO,IRV,$60.00,1:55pm - 8:32pm
+SLO,IRV,$60.00,3:50am - 6:30am|6:49am - 10:53am
+SLO,IRV,$60.00,10:30am - 1:45pm|2:04pm - 6:09pm
+SLO,IRV,$60.00,11:25am - 1:45pm|2:04pm - 6:09pm
+SLO,IRV,$60.00,3:20pm - 9:00pm|10:10pm - 11:08pm
+SLO,IRV,$80.00,3:20pm - 5:55pm|6:59pm - 11:08pm
+SLO,IRV,$60.00,3:40pm - 6:40pm|6:59pm - 11:08pm
+SLO,SOL,$71.00,6:55am - 2:33pm
+SLO,SOL,$71.00,1:55pm - 9:41pm
+SLO,SOL,$71.00,3:50am - 6:30am|6:49am - 11:56am
+SLO,SOL,$71.00,10:30am - 1:45pm|2:04pm - 7:26pm
+SLO,SOL,$71.00,11:25am - 1:45pm|2:04pm - 7:26pm
+SLO,SOL,$71.00,3:20pm - 9:00pm|10:10pm - 12:16am (Apr 6)
+SLO,SOL,$82.00,3:20pm - 5:55pm|6:59pm - 12:16am (Apr 6)
+SLO,SOL,$71.00,3:40pm - 6:40pm|6:59pm - 12:16am (Apr 6)
+SLO,OLT,$75.00,6:55am - 3:07pm
+SLO,OLT,$75.00,1:55pm - 10:16pm
+SLO,OLT,$75.00,3:50am - 6:30am|6:49am - 12:27pm
+SLO,OLT,$75.00,10:30am - 1:45pm|2:04pm - 7:58pm
+SLO,OLT,$75.00,11:25am - 1:45pm|2:04pm - 7:58pm
+SLO,OLT,$75.00,3:20pm - 9:00pm|10:10pm - 12:52am (Apr 6)
+SLO,OLT,$85.00,3:20pm - 5:55pm|6:59pm - 12:52am (Apr 6)
+SLO,OLT,$75.00,3:40pm - 6:40pm|6:59pm - 12:52am (Apr 6)
+GVB,OAC,$68.50,7:30am - 11:05am|5:48pm - 6:00pm
+GVB,OAC,$46.00,10:25am - 2:45pm|3:40pm - 4:36pm
+GVB,OAC,$46.00,12:35pm - 1:00pm|6:05pm - 7:01pm
+GVB,OAC,$46.00,1:40pm - 6:15pm|9:10pm - 10:06pm
+GVB,BUL,-,4:15am - 5:20am
+GVB,BUL,-,4:10pm - 5:15pm
+GVB,SBA,-,4:15am - 6:30am
+GVB,SBA,$39.00,7:15am - 9:24am
+GVB,SBA,-,10:55am - 1:45pm
+GVB,SBA,$39.00,2:15pm - 4:32pm
+GVB,SBA,-,4:10pm - 6:40pm
+GVB,VEC,$44.00,7:15am - 10:04am
+GVB,VEC,$44.00,2:15pm - 5:16pm
+GVB,VEC,$44.00,4:15am - 6:30am|6:49am - 7:29am
+GVB,VEC,$44.00,10:55am - 1:45pm|2:04pm - 2:41pm
+GVB,VEC,$44.00,4:10pm - 6:40pm|6:59pm - 7:37pm
+GVB,GDL,$49.00,7:15am - 11:45am
+GVB,GDL,$49.00,2:15pm - 6:59pm
+GVB,GDL,$49.00,4:15am - 6:30am|6:49am - 9:16am
+GVB,GDL,$62.00,7:30am - 11:05am|1:50pm - 4:00pm
+GVB,GDL,$49.00,10:55am - 1:45pm|2:04pm - 4:32pm
+GVB,GDL,-,3:30pm - 7:05pm|10:10pm - 12:15am (Apr 6)
+GVB,GDL,$49.00,4:10pm - 6:40pm|6:59pm - 9:23pm
+GVB,LAX,$51.00,7:15am - 12:15pm
+GVB,LAX,$51.00,2:15pm - 7:15pm
+GVB,LAX,$51.00,4:15am - 6:30am|6:49am - 9:35am
+GVB,LAX,$51.00,10:55am - 1:45pm|2:04pm - 4:55pm
+GVB,LAX,-,3:30pm - 7:05pm|10:10pm - 12:30am (Apr 6)
+GVB,LAX,$51.00,4:10pm - 6:40pm|6:59pm - 9:45pm
+GVB,FUL,$53.00,7:15am - 1:00pm
+GVB,FUL,$53.00,2:15pm - 8:00pm
+GVB,FUL,$53.00,4:15am - 6:30am|6:49am - 10:20am
+GVB,FUL,$53.00,10:55am - 1:45pm|2:04pm - 5:40pm
+GVB,FUL,-,3:30pm - 7:05pm|10:10pm - 1:15am (Apr 6)
+GVB,FUL,$53.00,4:10pm - 6:40pm|6:59pm - 10:40pm
+GVB,ANA,$55.00,7:15am - 1:09pm
+GVB,ANA,$55.00,2:15pm - 8:11pm
+GVB,ANA,$55.00,4:15am - 6:30am|6:49am - 10:31am
+GVB,ANA,$55.00,10:55am - 1:45pm|2:04pm - 5:49pm
+GVB,ANA,$55.00,4:10pm - 6:40pm|6:59pm - 10:49pm
+GVB,SAN,$73.00,7:15am - 3:15pm
+GVB,SAN,$73.00,2:15pm - 10:24pm
+GVB,SAN,$73.00,4:15am - 6:30am|6:49am - 12:35pm
+GVB,SAN,$73.00,10:55am - 1:45pm|2:04pm - 8:07pm
+GVB,SAN,$73.00,4:10pm - 6:40pm|6:59pm - 1:00am (Apr 6)
+BUL,OAC,$59.00,9:20am - 2:45pm|3:40pm - 4:36pm
+BUL,OAC,$59.00,12:35pm - 6:15pm|9:10pm - 10:06pm
+BUL,SFP,$64.50,9:20am - 2:45pm|5:35pm - 6:55pm
+BUL,SCC,$54.00,9:20am - 2:45pm|3:40pm - 3:46pm
+BUL,SCC,$54.00,12:35pm - 6:15pm|9:10pm - 9:16pm
+BUL,SCC,-,10:45pm - 4:20am (Apr 6)|6:40am - 6:46am
+BUL,SBA,-,5:20am - 6:30am
+BUL,SBA,-,12:40pm - 1:45pm
+BUL,SBA,-,5:15pm - 6:40pm
+BUL,FUL,$48.00,5:20am - 6:30am|6:49am - 10:20am
+BUL,FUL,$48.00,12:40pm - 1:45pm|2:04pm - 5:40pm
+BUL,FUL,$48.00,5:15pm - 6:40pm|6:59pm - 10:40pm
+BUL,ANA,$49.00,5:20am - 6:30am|6:49am - 10:31am
+BUL,ANA,$49.00,12:40pm - 1:45pm|2:04pm - 5:49pm
+BUL,ANA,$49.00,5:15pm - 6:40pm|6:59pm - 10:49pm

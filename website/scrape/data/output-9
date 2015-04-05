@@ -1,0 +1,102 @@
+GDL,SLO,$51.00,8:02am - 1:00pm
+GDL,SLO,$51.00,3:12pm - 8:30pm
+GDL,SLO,$62.00,7:45am - 9:50am|12:15pm - 3:05pm
+GDL,SLO,$51.00,9:17am - 11:40am|11:45am - 2:10pm
+GDL,SLO,$85.00,9:17am - 9:37am|10:40am - 3:22pm
+GDL,SLO,$51.00,12:37pm - 3:00pm|3:10pm - 5:15pm
+GDL,SLO,-,7:22pm - 9:45pm|9:55pm - 12:15am (Apr 6)
+GDL,GVB,$49.00,8:02am - 12:35pm
+GDL,GVB,$49.00,3:12pm - 7:54pm
+GDL,GVB,$62.00,7:45am - 9:50am|12:15pm - 3:30pm
+GDL,GVB,$49.00,9:17am - 11:40am|11:45am - 1:40pm
+GDL,GVB,$49.00,12:37pm - 3:00pm|3:10pm - 5:30pm
+GDL,GVB,-,7:22pm - 9:45pm|9:55pm - 11:50pm
+GDL,BUL,$47.00,9:17am - 11:40am|11:45am - 12:35pm
+GDL,BUL,$47.00,12:37pm - 3:00pm|3:10pm - 4:05pm
+GDL,BUL,-,7:22pm - 9:45pm|9:55pm - 10:45pm
+GDL,SBA,$36.00,8:02am - 10:19am
+GDL,SBA,$36.00,9:17am - 11:40am
+GDL,SBA,$36.00,12:37pm - 3:00pm
+GDL,SBA,$36.00,3:12pm - 5:40pm
+GDL,SBA,$36.00,7:22pm - 9:45pm
+GDL,SBA,-,10:05pm - 12:35am (Apr 6)
+GDL,SBA,$58.00,9:17am - 9:37am|10:40am - 12:33pm
+GDL,VEC,$28.00,8:02am - 9:35am
+GDL,VEC,$28.00,9:17am - 10:54am
+GDL,VEC,$28.00,12:37pm - 2:14pm
+GDL,VEC,$28.00,3:12pm - 4:57pm
+GDL,VEC,$28.00,7:22pm - 9:00pm
+GDL,VEC,-,10:05pm - 11:59pm
+GDL,ANA,$19.00,9:16am - 10:31am
+GDL,ANA,$19.00,11:45am - 1:09pm
+GDL,ANA,$19.00,4:32pm - 5:49pm
+GDL,ANA,$19.00,6:59pm - 8:11pm
+GDL,ANA,$19.00,9:23pm - 10:49pm
+GDL,OLT,$47.00,9:16am - 12:27pm
+GDL,OLT,$47.00,11:45am - 3:07pm
+GDL,OLT,$47.00,4:32pm - 7:58pm
+GDL,OLT,$47.00,6:59pm - 10:16pm
+GDL,OLT,$47.00,9:23pm - 12:52am (Apr 6)
+LAX,SAC,-,10:10am - 11:59pm
+LAX,SAC,$87.00,1:45am - 4:40am|9:10am - 10:10am
+LAX,SAC,$71.00,4:10am - 7:00am|7:15am - 12:30pm
+LAX,SAC,$71.00,7:35am - 9:50am|2:25pm - 3:15pm
+LAX,SAC,$71.00,7:35am - 9:50am|2:25pm - 3:30pm
+LAX,SAC,$69.00,7:50am - 1:00pm|6:05pm - 9:13pm
+LAX,SAC,$69.00,9:05am - 11:40am|9:10pm - 12:18am (Apr 6)
+LAX,SAC,$87.00,10:45am - 1:05pm|5:35pm - 6:25pm
+LAX,SAC,$134.00,10:45am - 1:05pm|9:10pm - 12:18am (Apr 6)
+LAX,SAC,$87.00,1:05pm - 3:30pm|8:10pm - 9:05pm
+LAX,SAC,-,3:10pm - 6:05pm|10:15pm - 1:27am (Apr 6)
+LAX,SAC,-,3:10pm - 6:05pm|10:15pm - 1:27am (Apr 6)
+LAX,SAC,-,7:10pm - 9:45pm|6:35am - 8:23am
+LAX,SAC,-,7:10pm - 9:45pm|9:10am - 10:58am
+LAX,DAV,-,10:10am - 11:25pm
+LAX,DAV,$87.00,1:45am - 4:40am|9:10am - 10:45am
+LAX,DAV,$103.00,1:45am - 4:40am|12:04pm - 12:47pm
+LAX,DAV,$80.00,4:10am - 7:00am|2:10pm - 2:25pm
+LAX,DAV,$68.00,7:50am - 1:00pm|6:05pm - 8:42pm
+LAX,DAV,$68.00,9:05am - 11:40am|9:10pm - 11:47pm
+LAX,DAV,$87.00,10:45am - 1:05pm|5:35pm - 7:10pm
+LAX,DAV,$129.00,10:45am - 1:05pm|9:10pm - 11:47pm
+LAX,DAV,$87.00,1:05pm - 3:30pm|8:10pm - 9:30pm
+LAX,DAV,-,7:10pm - 9:45pm|6:35am - 7:57am
+LAX,DAV,-,7:10pm - 9:45pm|9:10am - 10:36am
+LAX,SFP,$87.00,1:45am - 4:40am|10:50am - 11:40am
+LAX,SFP,$87.00,1:45am - 4:40am|10:55am - 11:45am
+LAX,SFP,$71.00,7:35am - 9:50am|4:05pm - 5:25pm
+LAX,SFP,$87.00,10:45am - 1:05pm|7:15pm - 8:30pm
+LAX,SJC,-,10:10am - 8:11pm
+LAX,SJC,$76.00,4:10am - 7:00am|11:25am - 1:20pm
+LAX,SJC,$76.00,7:35am - 9:50am|2:30pm - 4:20pm
+LAX,SJC,$62.00,7:50am - 1:00pm|1:05pm - 5:05pm
+LAX,SJC,$62.00,9:05am - 11:40am|11:45am - 6:15pm
+LAX,SJC,$94.00,10:45am - 1:05pm|5:35pm - 7:40pm
+LAX,SJC,$62.00,12:25pm - 3:00pm|3:10pm - 9:10pm
+LAX,SJC,$94.00,1:05pm - 3:30pm|8:05pm - 9:45pm
+LAX,SJC,-,7:10pm - 9:45pm|9:55pm - 4:20am (Apr 6)
+LAX,SCC,$68.00,7:50am - 1:00pm|6:05pm - 6:11pm
+LAX,SCC,$68.00,9:05am - 11:40am|9:10pm - 9:16pm
+LAX,SCC,$100.00,10:45am - 1:05pm|9:10pm - 9:16pm
+LAX,SCC,-,7:10pm - 9:45pm|6:40am - 6:46am
+LAX,SLO,$51.00,7:50am - 1:00pm
+LAX,SLO,-,10:10am - 3:22pm
+LAX,SLO,$51.00,3:00pm - 8:30pm
+LAX,SLO,$51.00,9:05am - 11:40am|11:45am - 2:10pm
+LAX,SLO,$51.00,12:25pm - 3:00pm|3:10pm - 5:15pm
+LAX,SLO,-,7:10pm - 9:45pm|9:55pm - 12:15am (Apr 6)
+LAX,SBA,$38.00,7:50am - 10:19am
+LAX,SBA,$38.00,9:05am - 11:40am
+LAX,SBA,-,10:10am - 12:33pm
+LAX,SBA,$38.00,12:25pm - 3:00pm
+LAX,SBA,$38.00,3:00pm - 5:40pm
+LAX,SBA,$38.00,7:10pm - 9:45pm
+LAX,SBA,-,9:50pm - 12:35am (Apr 6)
+LAX,GDL,-,1:45am - 2:00am
+LAX,GDL,-,4:10am - 4:25am
+LAX,GDL,$9.50,7:50am - 8:02am
+LAX,GDL,$9.50,9:05am - 9:17am
+LAX,GDL,$9.50,12:25pm - 12:37pm
+LAX,GDL,$9.50,3:00pm - 3:12pm
+LAX,GDL,$9.50,7:10pm - 7:22pm
+LAX,GDL,-,9:50pm - 10:05pm

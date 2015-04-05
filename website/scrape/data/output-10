@@ -1,0 +1,104 @@
+LAX,FUL,-,12:40am - 1:15am
+LAX,FUL,-,2:30am - 3:05am
+LAX,FUL,$15.00,6:15am - 6:44am
+LAX,FUL,$15.00,7:25am - 7:55am
+LAX,FUL,$15.00,8:30am - 9:00am
+LAX,FUL,$15.00,9:50am - 10:20am
+LAX,FUL,$15.00,11:15am - 11:45am
+LAX,FUL,$15.00,12:30pm - 1:00pm
+LAX,FUL,$15.00,3:00pm - 3:30pm
+LAX,FUL,$15.00,4:10pm - 4:40pm
+LAX,FUL,$15.00,5:10pm - 5:40pm
+LAX,FUL,$15.00,7:30pm - 8:00pm
+LAX,FUL,$15.00,10:10pm - 10:40pm
+LAX,ANA,$18.00,6:15am - 6:52am
+LAX,ANA,$18.00,7:25am - 8:03am
+LAX,ANA,$18.00,8:30am - 9:09am
+LAX,ANA,$18.00,9:50am - 10:31am
+LAX,ANA,$18.00,11:15am - 11:54am
+LAX,ANA,$18.00,12:30pm - 1:09pm
+LAX,ANA,$18.00,3:00pm - 3:38pm
+LAX,ANA,$18.00,4:10pm - 4:48pm
+LAX,ANA,$18.00,5:10pm - 5:49pm
+LAX,ANA,$18.00,7:30pm - 8:11pm
+LAX,ANA,$18.00,10:10pm - 10:49pm
+LAX,SOL,-,2:30am - 4:50am
+LAX,SOL,$37.00,6:15am - 8:23am
+LAX,SOL,$37.00,7:25am - 9:30am
+LAX,SOL,$37.00,8:30am - 10:42am
+LAX,SOL,$37.00,9:50am - 11:56am
+LAX,SOL,$37.00,11:15am - 1:24pm
+LAX,SOL,$37.00,12:30pm - 2:33pm
+LAX,SOL,$37.00,3:00pm - 5:02pm
+LAX,SOL,$37.00,4:10pm - 6:12pm
+LAX,SOL,$37.00,5:10pm - 7:26pm
+LAX,SOL,$37.00,7:30pm - 9:41pm
+LAX,SOL,$37.00,10:10pm - 12:16am (Apr 6)
+LAX,OLT,$46.00,7:25am - 10:02am
+LAX,OLT,$46.00,8:30am - 11:12am
+LAX,OLT,$46.00,9:50am - 12:27pm
+LAX,OLT,$46.00,11:15am - 1:55pm
+LAX,OLT,$46.00,12:30pm - 3:07pm
+LAX,OLT,$46.00,4:10pm - 6:55pm
+LAX,OLT,$46.00,5:10pm - 7:58pm
+LAX,OLT,$46.00,7:30pm - 10:16pm
+LAX,OLT,$46.00,10:10pm - 12:52am (Apr 6)
+FUL,DAV,$92.00,12:45am - 4:40am|9:10am - 10:45am
+FUL,DAV,$108.00,12:45am - 4:40am|12:04pm - 12:47pm
+FUL,DAV,$71.00,12:45am - 1:30am|6:05pm - 8:42pm
+FUL,DAV,$84.00,3:20am - 7:00am|2:10pm - 2:25pm
+FUL,DAV,$71.00,5:50am - 6:35am|7:10pm - 8:42pm
+FUL,DAV,$71.00,5:50am - 6:35am|6:05pm - 8:42pm
+FUL,DAV,$149.00,8:17am - 8:50am|10:10am - 11:25pm
+FUL,DAV,$100.00,8:17am - 11:40am|9:10pm - 11:47pm
+FUL,DAV,$92.00,11:34am - 12:10pm|8:10pm - 9:30pm
+FUL,DAV,-,6:17pm - 9:45pm|6:35am - 7:57am
+FUL,DAV,-,6:17pm - 9:45pm|9:10am - 10:36am
+FUL,OAC,$81.00,12:45am - 1:30am|6:05pm - 7:01pm
+FUL,OAC,$82.50,5:50am - 9:50am|5:48pm - 6:00pm
+FUL,OAC,$81.00,5:50am - 6:35am|6:05pm - 7:01pm
+FUL,OAC,$81.00,8:17am - 11:40am|9:10pm - 10:06pm
+FUL,SFP,$92.00,12:45am - 4:40am|10:50am - 11:40am
+FUL,SFP,$92.00,12:45am - 4:40am|10:55am - 11:45am
+FUL,SFP,$75.00,5:50am - 9:50am|4:05pm - 5:25pm
+FUL,SFP,$92.00,9:14am - 9:50am|7:15pm - 8:30pm
+FUL,SJC,$65.00,12:45am - 1:30am|1:05pm - 5:05pm
+FUL,SJC,$81.00,3:20am - 7:00am|11:25am - 1:20pm
+FUL,SJC,$81.00,5:50am - 9:50am|2:30pm - 4:20pm
+FUL,SJC,$65.00,8:17am - 11:40am|11:45am - 6:15pm
+FUL,SJC,$128.00,8:17am - 8:50am|10:10am - 8:11pm
+FUL,SJC,$96.00,9:17am - 9:50am|5:35pm - 7:40pm
+FUL,SJC,$65.00,11:34am - 3:00pm|3:10pm - 9:10pm
+FUL,SJC,$96.00,11:34am - 12:10pm|8:05pm - 9:45pm
+FUL,SJC,-,6:17pm - 9:45pm|9:55pm - 4:20am (Apr 6)
+FUL,SCC,$71.00,12:45am - 1:30am|6:05pm - 6:11pm
+FUL,SCC,$71.00,5:50am - 6:35am|6:05pm - 6:11pm
+FUL,SCC,$71.00,8:17am - 11:40am|9:10pm - 9:16pm
+FUL,SCC,-,6:17pm - 9:45pm|6:40am - 6:46am
+FUL,SLO,$56.00,2:10pm - 8:30pm
+FUL,SLO,$56.00,5:50am - 6:35am|7:50am - 1:00pm
+FUL,SLO,$56.00,8:17am - 11:40am|11:45am - 2:10pm
+FUL,SLO,$92.00,8:17am - 8:50am|10:10am - 3:22pm
+FUL,SLO,$56.00,11:34am - 3:00pm|3:10pm - 5:15pm
+FUL,SLO,-,6:17pm - 9:45pm|9:55pm - 12:15am (Apr 6)
+FUL,GVB,$53.00,2:10pm - 7:54pm
+FUL,GVB,$53.00,5:50am - 6:35am|7:50am - 12:35pm
+FUL,GVB,$53.00,8:17am - 11:40am|11:45am - 1:40pm
+FUL,GVB,$53.00,11:34am - 3:00pm|3:10pm - 5:30pm
+FUL,GVB,-,6:17pm - 9:45pm|9:55pm - 11:50pm
+FUL,BUL,$48.00,8:17am - 11:40am|11:45am - 12:35pm
+FUL,BUL,$48.00,11:34am - 3:00pm|3:10pm - 4:05pm
+FUL,BUL,-,6:17pm - 9:45pm|9:55pm - 10:45pm
+FUL,SBA,$41.00,8:17am - 11:40am
+FUL,SBA,$41.00,11:34am - 3:00pm
+FUL,SBA,$41.00,2:10pm - 5:40pm
+FUL,SBA,$41.00,6:17pm - 9:45pm
+FUL,SBA,$41.00,5:50am - 6:35am|7:50am - 10:19am
+FUL,SBA,$61.00,8:17am - 8:50am|10:10am - 12:33pm
+FUL,SBA,$41.00,8:58pm - 9:35pm|9:50pm - 12:35am (Apr 6)
+FUL,VEC,$36.00,8:17am - 10:54am
+FUL,VEC,$36.00,11:34am - 2:14pm
+FUL,VEC,$36.00,2:10pm - 4:57pm
+FUL,VEC,$36.00,6:17pm - 9:00pm
+FUL,VEC,$36.00,5:50am - 6:35am|7:50am - 9:35am
+FUL,VEC,$36.00,8:58pm - 9:35pm|9:50pm - 11:59pm

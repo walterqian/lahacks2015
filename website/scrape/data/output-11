@@ -1,0 +1,104 @@
+FUL,SOL,$28.00,6:44am - 8:23am
+FUL,SOL,$28.00,7:55am - 9:30am
+FUL,SOL,$28.00,9:00am - 10:42am
+FUL,SOL,$28.00,10:20am - 11:56am
+FUL,SOL,$28.00,11:45am - 1:24pm
+FUL,SOL,$28.00,1:00pm - 2:33pm
+FUL,SOL,$28.00,3:30pm - 5:02pm
+FUL,SOL,$28.00,4:40pm - 6:12pm
+FUL,SOL,$28.00,5:40pm - 7:26pm
+FUL,SOL,$28.00,8:00pm - 9:41pm
+FUL,SOL,$28.00,10:40pm - 12:16am (Apr 6)
+FUL,SOL,$52.00,5:50am - 6:35am|8:30am - 10:42am
+ANA,SAC,$94.00,8:08am - 8:50am|5:35pm - 6:25pm
+ANA,SAC,$154.00,8:08am - 8:50am|10:10am - 11:59pm
+ANA,SAC,$105.00,8:08am - 11:40am|9:10pm - 12:18am (Apr 6)
+ANA,SAC,$94.00,9:05am - 9:50am|5:35pm - 6:25pm
+ANA,SAC,$94.00,11:24am - 12:10pm|8:10pm - 9:05pm
+ANA,SAC,-,2:00pm - 2:45pm|10:15pm - 1:27am (Apr 6)
+ANA,SAC,-,2:00pm - 2:45pm|10:15pm - 1:27am (Apr 6)
+ANA,SAC,-,6:08pm - 9:45pm|6:35am - 8:23am
+ANA,SAC,-,6:08pm - 9:45pm|9:10am - 10:58am
+ANA,DAV,$152.00,8:08am - 8:50am|10:10am - 11:25pm
+ANA,DAV,$100.00,8:08am - 11:40am|9:10pm - 11:47pm
+ANA,DAV,$94.00,11:24am - 12:10pm|8:10pm - 9:30pm
+ANA,DAV,-,6:08pm - 9:45pm|6:35am - 7:57am
+ANA,DAV,-,6:08pm - 9:45pm|9:10am - 10:36am
+ANA,BKY,$84.00,8:08am - 11:40am|9:10pm - 10:29pm
+ANA,BKY,-,6:08pm - 9:45pm|6:35am - 6:39am
+ANA,OAC,$81.00,8:08am - 11:40am|9:10pm - 10:06pm
+ANA,SFP,$94.00,9:05am - 9:50am|7:15pm - 8:30pm
+ANA,SJC,$65.00,8:08am - 11:40am|11:45am - 6:15pm
+ANA,SJC,$131.00,8:08am - 8:50am|10:10am - 8:11pm
+ANA,SJC,$98.00,9:08am - 9:50am|5:35pm - 7:40pm
+ANA,SJC,$65.00,11:24am - 3:00pm|3:10pm - 9:10pm
+ANA,SJC,$98.00,11:24am - 12:10pm|8:05pm - 9:45pm
+ANA,SJC,-,6:08pm - 9:45pm|9:55pm - 4:20am (Apr 6)
+ANA,SCC,$71.00,8:08am - 11:40am|9:10pm - 9:16pm
+ANA,SCC,-,6:08pm - 9:45pm|6:40am - 6:46am
+ANA,SLO,$57.00,2:00pm - 8:30pm
+ANA,SLO,$57.00,8:08am - 11:40am|11:45am - 2:10pm
+ANA,SLO,$95.00,8:08am - 8:50am|10:10am - 3:22pm
+ANA,SLO,$57.00,11:24am - 3:00pm|3:10pm - 5:15pm
+ANA,SLO,-,6:08pm - 9:45pm|9:55pm - 12:15am (Apr 6)
+ANA,GVB,$55.00,2:00pm - 7:54pm
+ANA,GVB,$55.00,8:08am - 11:40am|11:45am - 1:40pm
+ANA,GVB,$55.00,11:24am - 3:00pm|3:10pm - 5:30pm
+ANA,GVB,-,6:08pm - 9:45pm|9:55pm - 11:50pm
+ANA,BUL,$49.00,8:08am - 11:40am|11:45am - 12:35pm
+ANA,BUL,$49.00,11:24am - 3:00pm|3:10pm - 4:05pm
+ANA,BUL,-,6:08pm - 9:45pm|9:55pm - 10:45pm
+ANA,SBA,$44.00,8:08am - 11:40am
+ANA,SBA,$44.00,11:24am - 3:00pm
+ANA,SBA,$44.00,2:00pm - 5:40pm
+ANA,SBA,$44.00,6:08pm - 9:45pm
+ANA,SBA,$64.00,8:08am - 8:50am|10:10am - 12:33pm
+ANA,SBA,$44.00,8:48pm - 9:35pm|9:50pm - 12:35am (Apr 6)
+ANA,GDL,$19.00,8:08am - 9:17am
+ANA,GDL,$19.00,11:24am - 12:37pm
+ANA,GDL,$19.00,2:00pm - 3:12pm
+ANA,GDL,$19.00,6:08pm - 7:22pm
+ANA,GDL,$19.00,8:48pm - 9:35pm|9:50pm - 10:05pm
+ANA,GDL,$19.00,11:04pm - 11:50pm|1:45am (Apr 6) - 2:00am
+ANA,LAX,$18.00,8:08am - 8:50am
+ANA,LAX,$18.00,9:05am - 9:50am
+ANA,LAX,$18.00,10:34am - 11:18am
+ANA,LAX,$18.00,11:24am - 12:10pm
+ANA,LAX,$18.00,12:53pm - 1:38pm
+ANA,LAX,$18.00,2:00pm - 2:45pm
+ANA,LAX,$18.00,3:38pm - 4:25pm
+ANA,LAX,$18.00,4:55pm - 5:40pm
+ANA,LAX,$18.00,6:08pm - 6:55pm
+ANA,LAX,$18.00,8:48pm - 9:35pm
+ANA,LAX,$18.00,11:04pm - 11:50pm
+ANA,FUL,$11.00,8:08am - 8:17am
+ANA,FUL,$11.00,9:05am - 9:14am
+ANA,FUL,$11.00,10:34am - 10:43am
+ANA,FUL,$11.00,11:24am - 11:34am
+ANA,FUL,$11.00,12:53pm - 1:03pm
+ANA,FUL,$11.00,2:00pm - 2:10pm
+ANA,FUL,$11.00,3:38pm - 3:49pm
+ANA,FUL,$11.00,4:55pm - 5:05pm
+ANA,FUL,$11.00,6:08pm - 6:17pm
+ANA,FUL,$11.00,8:48pm - 8:58pm
+ANA,FUL,$11.00,11:04pm - 11:13pm
+ANA,SOL,$26.00,6:52am - 8:23am
+ANA,SOL,$26.00,8:03am - 9:30am
+ANA,SOL,$26.00,9:09am - 10:42am
+ANA,SOL,$26.00,10:31am - 11:56am
+ANA,SOL,$26.00,11:54am - 1:24pm
+ANA,SOL,$26.00,1:09pm - 2:33pm
+ANA,SOL,$26.00,3:38pm - 5:02pm
+ANA,SOL,$26.00,4:48pm - 6:12pm
+ANA,SOL,$26.00,5:49pm - 7:26pm
+ANA,SOL,$26.00,8:11pm - 9:41pm
+ANA,SOL,$26.00,10:49pm - 12:16am (Apr 6)
+ANA,OLT,$35.00,8:03am - 10:02am
+ANA,OLT,$35.00,9:09am - 11:12am
+ANA,OLT,$35.00,10:31am - 12:27pm
+ANA,OLT,$35.00,11:54am - 1:55pm
+ANA,OLT,$35.00,1:09pm - 3:07pm
+ANA,OLT,$35.00,4:48pm - 6:55pm
+ANA,OLT,$35.00,5:49pm - 7:58pm
+ANA,OLT,$35.00,8:11pm - 10:16pm
+ANA,OLT,$35.00,10:49pm - 12:52am (Apr 6)
