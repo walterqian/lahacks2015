@@ -18,7 +18,7 @@ class User(object):
         self.prevUser = None
 
 class Places(object):
-e
+
     def __init__(self, name, times):
         self.station = name
         self.times = times
@@ -33,6 +33,9 @@ def addUser(userList, user):
     for potential in userList.find():
 
         if (potential.source == user.destination and potential.prevUser is None and user.arrivalTime == potential.departTime): 
+=======
+    for potential in userList.find():
+        if (potential['src'] == user.destination and potential.prevUser is None): 
             potential.prevUser = user
             user.nextUser = potential
             potential.matched = True 

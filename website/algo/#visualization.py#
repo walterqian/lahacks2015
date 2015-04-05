@@ -26,6 +26,7 @@ def main():
     users = db.users
     a = getStations()
     b = a.head
+
     while b is not None:
         print b.data
         
@@ -116,6 +117,12 @@ def getStations():
     stations.append('SAN')
 
     return stations 
+
+def appendUsers(users,station):
+
+    for node in users.find():
+        
+
 
 if __name__ == '__main__':
     main()
