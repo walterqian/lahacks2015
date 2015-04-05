@@ -11,6 +11,11 @@ app.get('/', function(req, res){
 	res.sendFile(__dirname + '/index.html');
 });
 
+app.get('/map', function(req, res){
+	console.log("request for map.html");
+	res.sendFile(__dirname + '/map.html');
+});
+
 http.listen(port, function(){
 	console.log("listening on port " + port);
 });
