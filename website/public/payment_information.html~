@@ -164,17 +164,20 @@ body, html {
             <p id="profile-name" class="profile-name-card"></p>
             <form class="form-signin">
                 <span id="reauth-email" class="reauth-email"></span>
+		<input type="text" id="inputPassword" class="form-control" placeholder="First Name" required>
+		<input type="text" id="inputPassword" class="form-control" placeholder="Last Name" required>
                 <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
                 <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+		 <input type="password" id="inputPassword" class="form-control" placeholder="Confirm Password" required>
                 <div id="remember" class="checkbox">
                     <label>
-                        <input type="checkbox" value="remember-me"> Remember me
+                        <input type="checkbox" value="remember-me"> I have read and agree to the Terms and Conditions. 
                     </label>
                 </div>
-                <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">Sign in</button>
+                <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">Create Account</button>
             </form><!-- /form -->
-            <a href="create_account.html" class="forgot-password">
-               Create an account
+            <a href="#" class="forgot-password">
+               Need Help?
             </a>
         </div><!-- /card-container -->
     </div><!-- /container -->
