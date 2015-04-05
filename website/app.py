@@ -26,7 +26,7 @@ db.authenticate('user', 'password')
 # print test.find_one({'id':5})
 
 #load data
-# schedules = db.schedules
+schedules = db.schedules
 # schedules.remove()
 # with open('scrape/final') as f:
 # 	content = f.readlines()
